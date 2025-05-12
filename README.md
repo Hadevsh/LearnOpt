@@ -1,5 +1,5 @@
 # LearnOpt (in-dev)
----
+
 **LearnOpt** is a smart, AI-assisted time planning web app that helps you achieve your learning goals by intelligently scheduling your study sessions. Whether you're preparing for exams or just trying to learn consistently, LearnOpt adapts to your routine and helps you optimize your study time.
 
 ## Features
